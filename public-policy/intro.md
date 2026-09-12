@@ -49,4 +49,4 @@ sidebar_position: 1
 
 ---
 
-*本文档由虚舟实验室（CaelLab）制定，遵循 [CC0](https://130.wiki/wiki/Project:CC_0) 精神公开发布。最后更新于 2026 年 9 月 12 日。*
+*最后更新于 2026 年 9 月 12 日。*

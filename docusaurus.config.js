@@ -37,15 +37,6 @@ const config = {
   ],
 
   plugins: [
-    // 重定向
-[
-  '@docusaurus/plugin-client-redirects',
-  {
-    redirects: [
-      { from: '/', to: '/public-policy/intro' },
-    ],
-  },
-],
     // 公共策略文档实例
     [
       '@docusaurus/plugin-content-docs',

@@ -28,7 +28,7 @@ copyright={
       rel="noopener"
       style={{color: '#ffffff', textDecoration: 'underline', textUnderlineOffset: '2px'}}
     >虚舟实验室</a>授予世界上任何人在 CaelLabPolicy 中的所有文本以 <a
-      href="https://130.wiki/wiki/Project:CC_0"
+      href="https://130.wiki/wiki/License:CC_0"
       target="_blank"
       rel="noopener"
       style={{color: '#ffffff', textDecoration: 'underline', textUnderlineOffset: '2px'}}
