@@ -39,10 +39,10 @@ const platforms = [
   },
   {
     title: '轻之舟百科',
-    domain: 'wiki.130.pub',
+    domain: '130.wiki',
     links: [
-      {label: '隐私政策', to: 'https://wiki.130.pub/wiki/轻之舟百科:隐私政策'},
-      {label: '著作权', to: 'https://wiki.130.pub/wiki/轻之舟百科:著作权'},
+      {label: '隐私政策', to: 'https://130.wiki/wiki/轻之舟百科:隐私政策'},
+      {label: '著作权', to: 'https://130.wiki/wiki/轻之舟百科:著作权'},
     ],
   },
   {
