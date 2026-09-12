@@ -24,7 +24,7 @@ npm start
 每个服务对应一个 docs 实例：
 
 ```
-public-policy/   公共策略中心（首页入口）
+public-policy/   通用政策中心（首页入口）
 www/             官网：隐私政策、第三方信息共享
 forum/           论坛：隐私政策、服务协议、社区守则
 id/              CaelLabID：隐私政策、服务协议、开发者守则

@@ -37,7 +37,7 @@ const config = {
   ],
 
   plugins: [
-    // 公共策略文档实例
+    // 通用政策文档实例
     [
       '@docusaurus/plugin-content-docs',
       {
@@ -126,7 +126,7 @@ const config = {
             sidebarId: 'publicPolicySidebar',
             docsPluginId: 'public-policy',
             position: 'left',
-            label: '公共策略',
+            label: '通用政策',
           },
           {
             type: 'docSidebar',

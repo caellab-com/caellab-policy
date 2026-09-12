@@ -106,7 +106,7 @@ export default function Home() {
         </section>
 
         <section className={styles.section}>
-          <Heading as="h2" className={styles.sectionTitle}>公共策略</Heading>
+          <Heading as="h2" className={styles.sectionTitle}>通用政策</Heading>
           <div className={styles.grid}>
             {common.map((c) => <CommonCard key={c.title} {...c} />)}
           </div>
