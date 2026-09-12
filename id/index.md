@@ -14,6 +14,14 @@ CaelLabID 是虚舟实验室的统一身份认证系统。
 
 ---
 
+### 相关资源
+
+- [CaelLabID](https://id.caellab.com/) — 注册、登录与开放平台入口
+- [开发者文档](https://id.caellab.com/docs/) — OAuth 接入、API 参考与代码示例
+- [百科词条](https://130.wiki/wiki/CaelLabID) — CaelLabID on [CaelLabWiki](https://130.wiki)
+
+---
+
 ### 相关文件
 
 - [隐私政策](/id/privacy) — 我们如何收集、使用和保护你的信息
