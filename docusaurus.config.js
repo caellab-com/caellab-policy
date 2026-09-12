@@ -42,7 +42,7 @@ const config = {
   '@docusaurus/plugin-client-redirects',
   {
     redirects: [
-      { from: '/', to: '/public-policy/privacy-rights' },
+      { from: '/', to: '/public-policy/intro' },
     ],
   },
 ],

@@ -144,16 +144,6 @@ sidebar_label: 隐私权政策
 
 ---
 
-### 各服务隐私政策
-
-本政策为虚舟实验室整体隐私权框架。各服务的具体实施细节请参阅各自的隐私政策：
-
-- [官网隐私政策](/www/privacy) — 适用于 [www.caellab.com](https://www.caellab.com)
-- [百科隐私政策](https://wiki.130.pub/wiki/轻之舟百科:隐私政策) — 适用于 [wiki.130.pub](https://wiki.130.pub)
-- [CaelLabID隐私政策](/id/privacy) — 适用于 [id.caellab.com](https://id.caellab.com)
-
----
-
 ### 联系我们
 
 如您对本隐私权政策有任何疑问、建议，或希望行使您的隐私权利，可通过以下方式联系我们：
