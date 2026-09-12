@@ -1,6 +1,6 @@
 ---
 title: 人权原则
-description: 虚舟实验室（CaelLab）对用户基本权利的承诺与保障原则
+description: 虚舟实验室对用户基本权利的承诺与保障原则
 sidebar_position: 1
 ---
 
