@@ -18,6 +18,11 @@ function Footer() {
 copyright={
   <div className="footer__copyright" style={{lineHeight: '1.8', fontSize: '0.85em'}}>
     除非另有声明，<a
+      href="https://www.caellab.org/"
+      target="_blank"
+      rel="noopener"
+      style={{color: '#ffffff', textDecoration: 'underline', textUnderlineOffset: '2px'}}
+    >虚舟实验室团队</a>和<a
       href="https://www.caellab.com/"
       target="_blank"
       rel="noopener"
