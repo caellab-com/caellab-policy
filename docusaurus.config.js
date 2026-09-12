@@ -3,8 +3,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '虚舟实验室 策略文档',
-  tagline: '虚舟实验室 策略文档',
+  title: 'CaelLabPolicy > 虚舟实验室',
+  tagline: 'CaelLabPolicy',
   favicon: 'https://www.caellab.com/favicon.ico',
 
   future: {
