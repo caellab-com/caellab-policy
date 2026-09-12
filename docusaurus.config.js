@@ -118,7 +118,7 @@ const config = {
         logo: {
           alt: 'Caellab Policy Logo',
           src: 'https://www.caellab.com/static/image/icon/logo.png',
-          href: '/public-policy/intro',
+          href: '/',
         },
         items: [
           {
